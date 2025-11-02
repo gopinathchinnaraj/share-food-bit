@@ -67,7 +67,7 @@ export const StatisticsComponent = () => {
                 style={{ borderRadius: "50px" }}
               />
               <Typography variant="h5">Meals Delivered</Typography>
-              <Typography variant="h4">{mealsDelivered}</Typography>
+              <Typography variant="h4">{250}</Typography>
             </CardContent>
           </Card>
         </Grid>
